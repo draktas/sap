@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+TABLE {
+    margin: auto; /* Выравниваем таблицу по центру окна  */
+    width: 1000px; /* Ширина таблицы */
+    border-collapse: collapse; /* Убираем двойные линии между ячейками */
+}
+TD, TH {
+    padding: 3px; /* Поля вокруг содержимого таблицы */
+    border: 1px solid black; /* Параметры рамки */
+    text-align: center; /* Выравниваем текст по центру ячейки */
+
+}
+TH {
+    background: #b0e0e6; /* Цвет фона */
+}
